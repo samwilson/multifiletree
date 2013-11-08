@@ -1,0 +1,27 @@
+
+body { font-family:"Geneva", "Verdana", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif }
+h1 { font-size:2em; margin:7px 0; border-bottom:thin dashed #ccc }
+h2 { font-size:1.6em; margin:0.4em 0 }
+a { color:#006666; text-decoration:none }
+a:hover { text-decoration:underline }
+table { border:2px solid #ccc; border-width:2px 0; margin:1em 0 }
+table caption { font-size:smaller; font-style:italic }
+table th, table td { padding:0.1em 0.4em }
+table th { border-bottom:1px solid #ccc; font-weight:bolder }
+
+#topbar { border-bottom:2px solid #ccc; text-align:right }
+#topbar p { margin:0; padding:0 }
+#topbar a { display:inline-block; padding:0.4em }
+
+#main { width:78%; float:right; margin-bottom:1em }
+
+#menu { margin-right:80%; margin:7px 0 1em 0 }
+#menu li { margin:0.2em 0 0 1em; list-style-type:none }
+#menu a.ui-icon { display:inline-block }
+
+#footer { text-align:center; font-size:smaller; border-top:2px solid #ccc; clear:both; padding:1em; line-height:1.2em }
+#footer ol { margin-bottom:2em }
+
+#edit-form p { margin:0.45em 0 }
+#edit-form #name { width:97%; font-size:1.2em }
+#edit-form #categories { list-style-type:decimal; margin-left:2em }

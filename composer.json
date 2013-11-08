@@ -1,0 +1,10 @@
+{
+	"name": "samwilson/kohana_multifiletree",
+	"type": "kohana-module",
+	"description": "A Kohana module for managing files that are attched to multiple nodes in a category tree.",
+	"version": "0.0.1",
+	"license": "MIT",
+	"require": {
+		"samwilson/kohana_datalog": "0.1.1" 
+	}
+}
